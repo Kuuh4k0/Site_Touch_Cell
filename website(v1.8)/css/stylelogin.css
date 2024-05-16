@@ -1,0 +1,94 @@
+body{
+    background-color: #424540;
+}
+
+.btnvoltar{
+    text-decoration: none;
+    color: #424540;
+    padding: 20px;
+    background-color: #fce89f;
+    border-radius: 20px;
+    margin-left: 2%;
+}
+.btnvoltar:hover{
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+}
+
+h1{
+    color: #ceb043;
+    cursor: default;
+}
+
+.painel{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 100px;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+}
+
+.email{
+    border: none;
+    text-align: center;
+    padding: 12px;
+    width: 260px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+}
+.email:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+.senha{
+    border: none;
+    text-align: center;
+    padding: 12px;
+    width: 260px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+}
+.senha:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+.inputSubmit{
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 260px;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.inputSubmit:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+    color: #ceb043;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cad{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
+
+.linkcad{
+    text-decoration: none;
+    color: rgb(236, 236, 236);
+}
+.linkcad:hover{
+    color: #ceb043;
+}

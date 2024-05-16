@@ -1,0 +1,29 @@
+.btnaddcart{
+    border: none;
+    color: black;
+    background-color: #fce89f;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 2%;
+}
+.btnaddcart:hover{
+    background-color: #d3af2e;
+    color: #f8e586;
+}
+
+.btncomprar{
+    border: none;
+    color: black;
+    background-color: #fce89f;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 2%;
+}
+.btncomprar:hover{
+    background-color: #d3af2e;
+    color: #f8e586;
+}
+
+.btns{
+    margin-bottom: 15px;
+}

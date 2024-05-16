@@ -1,0 +1,120 @@
+body {
+    background-color: #424540;
+}
+
+.navbar {
+    background-color: #fce89f;
+}
+
+.btnctt {
+    background-color: #ceb043;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-left: 78%;
+}
+.btnctt:hover {
+    background-color: white;
+    color: black;
+}
+
+.btnlogar {
+    background-color: #ceb043;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.btnlogar:hover {
+    background-color: white;
+    color: black;
+}
+
+.cardzin {
+    border-radius: 15px;
+}
+
+.card-body {
+    background-color: #2e2f2a;
+}
+
+.btnbuy {
+    background-color: #fce89f;
+    border: none;
+    border-radius: 10px;
+    padding: 9px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 35%;
+    color: black;
+}
+
+.btnbuy:hover {
+    background-color: #ceb043;
+    color: white;
+}
+
+/* ---Area Footer---*/
+
+.footer {
+    background: #000;
+    padding: 30px 0px;
+    font-family: 'Play', sans-serif;
+    text-align: center;
+}
+
+.footer .row {
+    width: 100%;
+    margin: 1% 0%;
+    padding: 0.6% 0%;
+    color: gray;
+    font-size: 0.8em;
+}
+
+.footer .row a {
+    text-decoration: none;
+    color: gray;
+    transition: 0.5s;
+}
+
+.footer .row a:hover {
+    color: #fff;
+}
+
+.footer .row ul {
+    width: 100%;
+}
+
+.footer .row ul li {
+    display: inline-block;
+    margin: 0px 30px;
+}
+
+.footer .row a i {
+    font-size: 2em;
+    margin: 0% 1%;
+}
+
+@media (max-width:720px) {
+    .footer {
+        text-align: left;
+        padding: 5%;
+    }
+
+    .footer .row ul li {
+        display: block;
+        margin: 10px 0px;
+        text-align: left;
+    }
+
+    .footer .row a i {
+        margin: 0% 3%;
+    }
+}
+
+.banner1562{
+    position: absolute;
+
+}
