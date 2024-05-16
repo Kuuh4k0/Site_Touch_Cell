@@ -33,6 +33,9 @@ include_once 'func/funcoes.php';
     </div>
 </nav>
 
+<div>
+    <p class="frase1">Os Melhores preços, você encontra aqui!</p>
+</div>
 
 <div id="carouselExample" class="carousel slide">
     <div class="carousel-inner">
@@ -51,6 +54,10 @@ include_once 'func/funcoes.php';
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
     </button>
+</div>
+
+<div>
+    <p class="frase1">Promoções toda semana, com as melhores ofertas do mundo!!</p>
 </div>
 
 <div class="container-fluid">

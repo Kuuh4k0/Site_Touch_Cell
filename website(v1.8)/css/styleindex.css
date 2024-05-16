@@ -2,6 +2,15 @@ body {
     background-color: #424540;
 }
 
+.frase1{
+    background-color: black;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
+
 .navbar {
     background-color: #fce89f;
 }
@@ -13,10 +22,12 @@ body {
     border-radius: 10px;
     text-decoration: none;
     margin-left: 78%;
+    font-size: 15px;
 }
 .btnctt:hover {
     background-color: white;
     color: black;
+    font-size: 18px;
 }
 
 .btnlogar {
@@ -25,11 +36,13 @@ body {
     padding: 10px;
     border-radius: 10px;
     text-decoration: none;
+    font-size: 15px;
 }
 
 .btnlogar:hover {
     background-color: white;
     color: black;
+    font-size: 18px;
 }
 
 .cardzin {
@@ -116,5 +129,4 @@ body {
 
 .banner1562{
     position: absolute;
-
 }
